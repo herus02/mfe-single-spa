@@ -19,3 +19,4 @@ issues with package installing.
 I created the React app using `create-single-spa@4`
 
 ## React-SPA
+Doesn't work well at first, but then I solved installing `npm install react@18.2.0 react-dom@18.2.0`
