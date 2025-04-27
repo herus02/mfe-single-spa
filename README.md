@@ -20,3 +20,6 @@ I created the React app using `create-single-spa@4`
 
 ## React-SPA
 Doesn't work well at first, but then I solved installing `npm install react@18.2.0 react-dom@18.2.0`
+
+## Conclusion
+Microfrontends are stricted to use only if it needed. It's not perfomartic way to use different components from legacy. Should have a unique case to use
